@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Kumar Gupta</h1>
-<h3 align="center">This is my second team Mini Project with Title "...". The title is quite interesting because we don't know what to make but now we are developing something new that is the real</h3>
-<h2> Project title is <strong>AirBnb Price Predicition</strong> under this we are finding the best suited algorithm to predict the output with good accuracy i.e.<strong> Decision Tree</strong> with accuracy rate of <strong>78%</strong></h2>
+<h3 align="center">This is my second team Mini Project with Title "...". The title is quite interesting because we don't know what to make but now we are developing something new that is the real</h3><br>
+<h2> Project title is <b>AirBnb Price Predicition</b> under this we are finding the best suited algorithm to predict the output with good accuracy i.e.<b> Decision Tree</b> with accuracy rate of <b>78%</b></h2>
 
 - 🔭 I’m currently working on **Machine Learning Project**
 
