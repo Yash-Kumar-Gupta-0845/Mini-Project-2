@@ -21,5 +21,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><h5 align="left">Programming Languages:</h5><br> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
  
-<br><h5 align="left">AI/ML:</h5><br><a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="40" height="40"/> </a> 
+<br><h5 align="left">AI/ML:</h5><br><a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
