@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yash Kumar Gupta</h1><br><h2 align = "center"> and as a team project, my 2nd member is Vijay Kaushal</h2>
+<h1 align="center">Hi 👋, I'm Yash Kumar Gupta</h1><br><h2 align = "center"> and as a team project, my 2nd member is Vijay Kaushal!!!</h2>
 <h3 align="center">This is my second team Mini Project with Title "...". The title is quite interesting because we don't know what to make but now we are developing something new that is the real</h3>
 <h3> Project title is <b>AirBnb Price Predicition</b> under this we are finding the best suited algorithm to predict the output with good accuracy i.e.<b> Decision Tree</b> with accuracy rate of <b>78%</b></h3>
 
